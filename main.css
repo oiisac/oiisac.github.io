@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  padding: 50px 0 70px;
+  font-family: sans-serif;
+  font-size: 9pt;
+}
+
+#header {
+  position: absolute;
+  width: 500px;
+  height: 160px;
+  top: 50%;
+  margin-top: -80px;
+  left: 50%;
+  margin-left: -250px
+}
+
+#logo{
+  position: absolute;
+  top: 0px;
+  width: 500px;
+  height: auto;
+}
+#title {
+  position: absolute;
+  width:500px;
+  top: 110px;
+  text-align: center;
+  font-size: 12pt;
+  font-style: oblique;
+}
+#links {
+  position: absolute;
+  top: 160px;
+  right: 0px;
+  text-align: right;
+}
+#cv {
+  position: absolute;
+  top: 160px;
+  left:0px;
+  text-align: left;
+}
+a {
+  color: #5EA9DD;
+}
